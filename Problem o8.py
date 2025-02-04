@@ -1,7 +1,4 @@
 # Problem 8: Find the sum of the numbers passed as parameters using a function.
-# Sample Input (when prompted): 5 10 15 20
-# Expected Output:
-#   The sum of the numbers is: 50
 
 def sum_parameters(*args):
     return sum(args)
