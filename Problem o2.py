@@ -1,6 +1,5 @@
 # Problem 2: Find the smallest number from a set of numbers
 
-# Input numbers separated by space.
 user_input = input("Enter numbers separated by space: ")
 numbers = [int(x) for x in user_input.split()]
 
